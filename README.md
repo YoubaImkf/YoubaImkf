@@ -1,4 +1,3 @@
-```markdown
 # Welcome to the Realm of Code Magic! 🪄
 
 ## About Me ✨
