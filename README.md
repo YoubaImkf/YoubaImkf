@@ -40,6 +40,7 @@ public class Spells
 
 ## Connect with Me 🌐
 🍱 [Bento](https://bento.me/youba-imkf)
+
 📷 [Instagram](https://instagram.com/youbetteaskip)  
-💼 [LinkedIn](www.linkedin.com/in/imkf-youba)  
-```
+
+💼 [LinkedIn](www.linkedin.com/in/imkf-youba)
