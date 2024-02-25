@@ -1,16 +1,46 @@
-### Hi there 👋
+```markdown
+# Welcome to the Realm of Code Magic! 🪄
 
-<!--
-**YoubaImkf/YoubaImkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ✨
 
-Here are some ideas to get you started:
+```csharp
+public class Developer : Person
+{
+    public string Name => "Youba";
+    public string Role => ".NET Developer in apprenticeship";
+    public string[] Interests => new string[] { "Coding", "Milk chocolate", "Blockchain", "Space Travel", "Finance" };
+    public string[] CurrentlyLearning => new string[] { ".NET", "NestJs", "Blockchain" };
+    
+    public Developer()
+    {
+        // Thirsty for inspiration and constantly seeking captivating challenges
+        base.ThirstForInspiration = true;
+        base.AvidForChallenges = true;
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ahoy fellow coders and digital wanderers! I'm Youba a code mage journeying through the realms of .NET development in apprenticeship. Thirsty for inspiration, I weave spells of logic and craft captivating solutions to conquer the challenges that come my way. 🚀
+
+## Current Adventures 🌟
+
+📚 **Currently Learning:** .NET sorcery, the mystic arts of NestJs, and the arcane secrets of Blockchain.
+
+🛠️ **Projects:** Brewing up some magical concoctions with .NET, experimenting with the mystical powers of NestJs, and delving into the cryptic world of Blockchain.
+
+## Spells in My Grimoire 📜
+
+```csharp
+public class Spells
+{
+    public string[] Languages => new string[] { "C#", "TypeScript", "HTML/CSS", };
+    public string[] Technologies => new string[] { ".NET", "NestJs", "Blockchain", "SQL", "AzureDevops" };
+    public string[] Tools => new string[] { "Visual Studio", "VS Code", "Git", "SSMS", "Postman", "Docker", AzureDevops };
+}
+```
+
+## Connect with Me 🌐
+🍱 [Bento](https://bento.me/youba-imkf)
+📷 [Instagram](https://instagram.com/youbetteaskip)  
+💼 [LinkedIn](www.linkedin.com/in/imkf-youba)  
+```
