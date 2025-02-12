@@ -4,7 +4,8 @@
 
 ![](https://img.shields.io/badge/🥩%20OS-FFF?style=flat-square)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
-[![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling%20release-1793D1?style=flat-square&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
+
 
 ![](https://img.shields.io/badge/🥖%20Browsers-FFF?style=flat-square)
 [![](https://img.shields.io/badge/Browser-Edge-0078D7?style=flat-square&logo=microsoft-edge&logoColor=ffffff)](https://www.microsoft.com/fr-fr/edge?form=MA13FJ)
@@ -41,6 +42,4 @@
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youbaimkf&layout=compact)
-
-![LeetCode Stats](https://leetcode.card.workers.dev/youbaimkf?theme=unicorn&font=source_code_pro&extension=null)
 
